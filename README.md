@@ -1,7 +1,7 @@
 Walletix .NET
 =============
 
-A .NET wrapper for the Walletix online payment service. This can be used from .NET desktop and ASP.NET projects alike.
+A .NET wrapper for the [Walletix](https://www.walletix.com) online payment service. This can be used from .NET desktop and ASP.NET projects alike.
 
 
 How to use
