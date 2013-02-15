@@ -13,8 +13,8 @@ namespace Walletix_Test
 			ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };			
 			
 			//Prepare Walletix service
-			long myVendorID = 12269;
-			string myAPIKey = "CAv5rCmixvt1MHo1D6hDVhSHLrvj2X7u";
+			long myVendorID;
+			string myAPIKey = "";
 			WalletixService walletix = new WalletixService(myVendorID, myAPIKey, true);
 			
 			string transactionCode = "";
