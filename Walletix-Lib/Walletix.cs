@@ -7,9 +7,6 @@ using System.Diagnostics;
 
 namespace Walletix
 {
-	/*
-	 * Note: implemented as a Singleton class
-	 * */
 	public class WalletixService
 	{
 		/*
