@@ -19,7 +19,7 @@ namespace Walletix_Test
 			
 			string transactionCode = "";
 			
-			//Generate a transaction code. Amout = 500, ID = 99, callback URL = http://test-server.com/
+			//Generate a transaction code. Amount = 500, ID = 99, callback URL = http://test-server.com/
 			//Should enclose calls to WalletixService always un try..catch
 			try {
 				transactionCode = walletix.GeneratePaymentCode(99, 500, "http://test-server.com/");
