@@ -6,7 +6,7 @@ A .NET wrapper for the [Walletix](https://www.walletix.com) online payment servi
 
 How to use
 -----------
-You need only to reference the project `Walletix-Lib` and add `using Walletix;` to your code.
+You need only to reference the project [`Walletix-Lib`](Walletix-Lib) and add `using Walletix;` to your code.
 
 Methods
 -------
