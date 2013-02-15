@@ -54,7 +54,7 @@ namespace Walletix_Test
 			}
 			
 			
-			//Verify if the payment for a transaction has been performed by the customer or not yet
+			//Delete a transaction
 			//Should enclose calls to WalletixService always un try..catch
 			try {
 				//string transactionCode = "SOME TRANSACTION CODE";
