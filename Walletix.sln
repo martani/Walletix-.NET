@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walletix-Lib", "Walletix-Lib\Walletix-Lib.csproj", "{A2712F5B-54FC-4405-9F70-7EEF7F8CF5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walletix Test", "Walletix-Test\Walletix Test.csproj", "{5614A65D-1692-4BDF-A946-E04DB9559D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5614A65D-1692-4BDF-A946-E04DB9559D41}.Debug|x86.ActiveCfg = Debug|x86
+		{5614A65D-1692-4BDF-A946-E04DB9559D41}.Debug|x86.Build.0 = Debug|x86
+		{5614A65D-1692-4BDF-A946-E04DB9559D41}.Release|x86.ActiveCfg = Release|x86
+		{5614A65D-1692-4BDF-A946-E04DB9559D41}.Release|x86.Build.0 = Release|x86
+		{A2712F5B-54FC-4405-9F70-7EEF7F8CF5B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A2712F5B-54FC-4405-9F70-7EEF7F8CF5B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{A2712F5B-54FC-4405-9F70-7EEF7F8CF5B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{A2712F5B-54FC-4405-9F70-7EEF7F8CF5B1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Walletix-Lib\Walletix-Lib.csproj
+	EndGlobalSection
+EndGlobal
